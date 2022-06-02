@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ygtakky&style=flat-square&color=blue" alt=""/>
   <h1>
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"/>,
     I'm Yiğit
   </h1>
 </div>
