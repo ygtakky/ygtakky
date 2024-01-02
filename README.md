@@ -14,17 +14,19 @@
 </div>
 
 ### :man_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+I am a Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :seedling: I am currently learning game development and React.
+- :seedling: I am currently getting a diploma in game development.
 - :mailbox:How to reach me: akkayayigit@gmail.com
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="unity" **alt="unity" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="unrealengine" **alt="unrealengine" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" **alt="csharp" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" **alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -33,6 +35,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" **alt="nodejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="jetbrains" **alt="jetbrains" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
 </div>
 
