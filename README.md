@@ -16,7 +16,7 @@
 ### :man_technologist: About Me :
 I am a Game Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
-- :seedling: I am currently getting a diploma in game development.
+- :seedling: I am currently doing an internship in Bethesda Game Studios.
 - :mailbox:How to reach me: akkayayigit@gmail.com
 
 ---
